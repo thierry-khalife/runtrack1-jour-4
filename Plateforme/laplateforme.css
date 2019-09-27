@@ -1,0 +1,238 @@
+header
+{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+    align-items: flex-end;
+    border-bottom TOAST: 3px black groove;
+    background-color:#88c1d0;
+    position: relative;
+    color:white;
+    width: 100%;
+    font-family: arial;
+}
+header img{
+width: 734px;
+height:90px;    
+}
+header img:hover{
+opacity: :0.8
+background-color:black; 
+}
+body
+{
+    margin: 0;
+}
+
+nav
+{
+    font-size: 25px;
+    text-align: center;
+    margin: 30px;
+    padding-right: 50px;
+}
+
+a:link, a:visited{
+    color:blue;
+    text-decoration: none;
+}
+a:hover{
+    color:white;
+}
+
+footer
+{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+    align-items: flex-end;
+    border-bottom TOAST: 3px black groove;
+    background-color:#88c1d0;
+    position: relative;
+    color:white;
+    width: 100%;
+    font-family: arial;
+}
+footer img
+{
+    width: 200px;
+    height:200px;
+}
+
+menu{
+    text-align: left;
+    font-size: 25px;
+}
+
+.coordonnees{
+    padding-right: 300px;
+    padding-top: 50px;
+    margin-left:20%;
+}
+
+.ensavoirplus{
+color: #fff !important;
+text-transform: uppercase;
+text-decoration: none;
+background: #ed3330;
+padding: 20px;
+border-radius: 5px;
+display: inline-block;
+border: none;
+transition: all 0.4s ease 0s;
+
+}
+.ensavoirplus:hover {
+background: #434343;
+letter-spacing: 1px;
+-webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+-moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+box-shadow: 5px 40px -10px rgba(0,0,0,0.57);
+transition: all 0.4s ease 0s;
+}
+
+.ensavoirplus2{
+    margin: 50px;
+}
+.social2 img{
+    width: 50px;
+    height: 50px;
+}
+.tableau{
+    margin-right: 500px;
+    padding-bottom:40px;
+}
+.formationfooter{
+    font-size:25px;
+}
+main{
+    margin:0px;
+    
+}
+article{
+
+    text-align: center;
+}
+article p{ 
+    padding: 0px;
+    margin: 0px;
+   color:black;
+   font-size: 50px;
+   text-align: center;
+}
+article img{
+    padding: 0px;
+    margin: 0px;
+    width: 300px;
+    height: 300px;
+}
+.tableMain{
+
+}
+.tableMain td{
+    width: 50%;
+}
+.tableMain tr
+{
+   
+}
+.tableMain2{
+padding: 50px;
+background-color: #88c1d0;
+}
+.tableMain2 td{
+
+}
+.tableMain2 tr{
+
+}
+.tableMain2 p{
+ font-size: 30px;
+}
+.tableMain2 h1{
+ font-size: 50px;
+}
+.tableMain2 img{
+    text-align: center;
+ width: 100px;
+ height: 100px;
+}
+.tableMain3{
+
+background-color: white;
+}
+.tableMain3 p{
+
+font-size: 30px;
+}
+.tableMain3 td{
+border: 1px solid black;
+}
+.tableMain3 tr{
+border: 1px solid black;
+}
+aside {
+    width: 40%;
+    padding-left: .5rem;
+    margin-left: .5rem;
+    float: right;
+    box-shadow: inset 5px 0 5px -5px #29627e;
+    font-style: italic;
+    color: #29627e;
+    font-size: 30px;
+}
+
+aside p {
+    font-size: 50px;
+}
+.titreQSN
+{
+    font-size: 50px;
+    color: black;
+}
+.QSN{
+    font-size: 20px;
+    color: black;
+}
+
+.coding
+{
+    font-family: impact;
+    text-align: center;
+    font-size: 25px;
+}
+
+.logoCd img{
+    width: 250px;
+    height: 250px;
+}
+
+.logoqsn img{
+    width:100px;
+    height: 100px;
+    padding-left: 200px;
+}
+
+.qsntexte{
+    font-size: 25px;
+}
+form
+{
+    border: 3px groove black;
+    width: 25%;
+}
+
+.sarah1{
+    text-align: center;
+}
+.executive{
+    font-size: 30px;
+}
+
+.EE{
+    font-size: 40px;
+    text-align: center;
+}
+.video2{
+text-align:center;
+}
